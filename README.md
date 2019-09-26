@@ -5,6 +5,23 @@ This is the repo containing the code and other resources implemented for the art
 - Website: http://visibilia.net.br/siion-resources-bracis-2019/
 
 
+## Dependencies
+
+In most cases you will want to follow the requirements defined in the requirements/*.txt files in the package. 
+
+### Base dependencies
+```
+scipy
+numpy
+future
+json
+scikit-learn
+pandas
+matplotlib # for plot some clustering results
+i-graph # for generation of bipartitie graphs which be used in recommendation engines 
+```
+
+
 
 ## Contributing
 
