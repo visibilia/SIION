@@ -18,7 +18,7 @@ json
 scikit-learn
 pandas
 matplotlib # for plot some clustering results
-i-graph # for generation of bipartitie graphs which be used in recommendation engines 
+igraph # for generation of bipartitie graphs which be used in recommendation engines 
 ```
 
 
