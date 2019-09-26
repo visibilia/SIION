@@ -7,7 +7,7 @@ This is the repo containing the code and other resources implemented for the art
 
 # Cite
 If you used the material available in this repository in your research or project, please
-cite [our work](https://www.researchgate.net/publication/336042054_Exploiting_Geographical_Data_to_improve_Recommender_Systems_for_Business_Opportunities_in_Urban_Areas:
+cite [our work](https://www.researchgate.net/publication/336042054_Exploiting_Geographical_Data_to_improve_Recommender_Systems_for_Business_Opportunities_in_Urban_Areas):
 
 ```bibtex
 @inproceedings{visibilia:siion:2019, 
@@ -18,4 +18,5 @@ cite [our work](https://www.researchgate.net/publication/336042054_Exploiting_Ge
  note = {To be published},
  location = {Salvador-Bahia, Brazil},
  year = {2019}
- }```
+ }
+```
