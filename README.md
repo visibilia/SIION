@@ -14,11 +14,10 @@ In most cases you will want to follow the requirements defined in the requiremen
 scipy
 numpy
 future
-json
 scikit-learn
 pandas
 matplotlib # for plot some clustering results
-igraph # for generation of bipartitie graphs which be used in recommendation engines 
+python-igraph # for generation of bipartitie graphs which are used in recommendation engines 
 ```
 
 
