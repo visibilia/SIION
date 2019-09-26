@@ -1,9 +1,15 @@
 # Recommender System for discovering of Business Opportunities (Still under construction)
 
-This is the repo containing the code and other resources implemented for the article intitled "__Exploiting Geographical Data to improve Recommender Systems for Business Opportunities in Urban Areas__", which is published in the proceedings of [BRACIS 2019](http://www.bracis2019.ufba.br/).
+This is the repo containing the code and other resources implemented for the article intitled "__Exploiting Geographical Data to improve Recommender Systems for Business Opportunities in Urban Areas__", which is published in the proceedings of [BRACIS 2019](http://www.bracis2019.ufba.br/). This framework is part of SIION project, so for ease of communication let's call the content of this repository also as __SIION__.
 
-- Website: http://visibilia.net.br/siion-resources-bracis-2019/
+- Other resources related to the article: http://visibilia.net.br/siion-resources-bracis-2019/
+- Details about SIION project: http://visibilia.net.br/siion/
 
+## Features
+
+SIION is a framework based on clustering and recommender systems to perform some tasks related to Geomarketing. Therefore, the main features are:
+
+- __Partitioning of geographic maps.__ Given a geographic map corresponding to a specific target city, SIION 
 
 ## Dependencies
 
