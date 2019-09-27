@@ -26,8 +26,14 @@ pandas
 matplotlib # for plot some clustering results
 python-igraph # for generation of bipartitie graphs which are used in recommendation engines 
 ```
+## How it works?
+sss
 
+## Visualization
 
+sss
+
+![alt tag](http://visibilia.net.br/wp-content/uploads/2019/09/Pittsburgh_recommendation-siion.png)
 
 ## Contributing
 
