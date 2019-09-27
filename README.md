@@ -34,7 +34,7 @@ Still writting
 
 ## Visualization
 
-We have work the visualization of our final result using [MapBox](https://www.mapbox.com/) on the [Observable platform](https://observablehq.com/). The following figure show results obtained for Pittsburgh city.
+We have work the visualization of our final result using [MapBox](https://www.mapbox.com/) on the [Observable platform](https://observablehq.com/). The following figure shows the visualization results obtained for Pittsburgh city using k-means algorithm with k=80, i.e. were computed 80 business districts. Each blue point represents a business location. Business locations inside polygons represent business locations belonging to similar business categories and sharing other similarities (e.g. geographical localization).
 
 ![alt tag](http://visibilia.net.br/wp-content/uploads/2019/09/Pittsburgh_recommendation-siion.png)
 
