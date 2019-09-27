@@ -31,9 +31,11 @@ sss
 
 ## Visualization
 
-sss
+We have work the visualization of our final result using [MapBox](https://www.mapbox.com/) on the [Observable platform](https://observablehq.com/). The following figure show results obtained for Pittsburgh city.
 
 ![alt tag](http://visibilia.net.br/wp-content/uploads/2019/09/Pittsburgh_recommendation-siion.png)
+
+The complete code for visualization of our results is available here: https://observablehq.com/d/24aea29dedae8bd0
 
 ## Contributing
 
