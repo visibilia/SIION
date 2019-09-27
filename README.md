@@ -27,10 +27,10 @@ matplotlib # for plot some clustering results
 python-igraph # for generation of bipartitie graphs which are used in recommendation engines 
 ```
 ## How it works?
-Still writting
+To be updated
 
 ## Datasets
-Still writting
+To be updated
 
 ## Visualization
 
