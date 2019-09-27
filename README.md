@@ -10,6 +10,7 @@ This is the repo containing the code and other resources implemented for the art
 SIION is a framework based on clustering and recommender systems to perform some tasks related to Geomarketing. Therefore, the main features are:
 
 - __Geographic Map Partitioning.__ Given a geographic map corresponding to a specific target city, SIION apply a clustering algorithm to automatically partitioning the target city into a set of non-empty and non-overlapping geographical areas called business districts. To obtain appropriate business districts, the clustering algorithm used should consider different similarity relations among the business locations existing in the target city, e.g. geographical distance, economic factors, etc. In this version, SIION considers the following state-of-the-art clustering algorithms: Kmeans, DBSCAN, agglomerative hierarchical clustering (AC) and business district discovering (BDD). 
+- __Business Category Recommendation.__ Given the set of business districts previously discovered, SIION is capable of generate a list of categories recommended to each one of these business districts. In this version, SIION considers the following state-of-the-art recommendation algorithms: Random, most popular (MP), KNN with versions UserKnn and ItemKnn, Group-based recommendation, Poisson Additive Co-Clustering recommendation (PaCo) and Bayesian Personalized Ranking with Matrix Factorization (BPRMF).   
 
 ## Dependencies
 
